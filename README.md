@@ -12,10 +12,10 @@ Na terceira arte, dada a gravidade do tema, procurei não utilizar cores fortes 
 Post 1
 Legenda:
 Vamos começar o ano com boas ações? Muitas crianças e adolescentes precisam do seu apoio para ter acesso à Educação de qualidade este ano. Somente fortalecendo o ensino conseguiremos reduzir as desigualdades sociais no país e promover um futuro melhor para todos! Considere fazer uma doação clicando no link da bio. Ou, se preferir, doe via PIX: pix@fadc.org.br.
-Chamada para arte:
+Chamada para arte:<br/>
 A Educação é o caminho para um futuro melhor!
 
-(arte1.png)
+<img src="arte1.png"/>
 
 Post 2
 Legenda:
