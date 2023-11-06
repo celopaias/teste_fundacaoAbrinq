@@ -15,7 +15,7 @@ Vamos começar o ano com boas ações? Muitas crianças e adolescentes precisam 
 Chamada para arte:<br/>
 A Educação é o caminho para um futuro melhor!
 
-[arte1.png]
+<img src="https://github.com/celopaias/teste_fundacaoAbrinq/blob/main/arte1.jpg"/>
 
 Post 2
 Legenda:
