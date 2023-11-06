@@ -1,7 +1,7 @@
 <h1>Teste Fundação Abrinq</h1>
 
 
-<h4> <strong>1. Recrie os três posts abaixo para o feed da Fundação Abrinq no Instagram, com uma nova identidade, seguindo critérios que considera interessantes. Não esqueça de explicar a linha criativa e justificar os critérios escolhidos. Aproveite para utilizar diferentes técnicas de design gráfico, como fotos, ilustrações, letterings, hierarquia de informações e o que mais a sua criatividade permitir.</strong></h4>
+<h2> <strong>1. Recrie os três posts abaixo para o feed da Fundação Abrinq no Instagram, com uma nova identidade, seguindo critérios que considera interessantes. Não esqueça de explicar a linha criativa e justificar os critérios escolhidos. Aproveite para utilizar diferentes técnicas de design gráfico, como fotos, ilustrações, letterings, hierarquia de informações e o que mais a sua criatividade permitir.</strong></h2>
 
 <p>Para a criação destas artes, procurei usar uma identidade diferente da apresentada nas redes sociais do instituto. Na abordagem, utilizei ilustrações infantis, devido ao contexto do instituto, procurando explorar mais a ilustração que propriamente os textos ou outros elementos.
 Na primeira arte, adicionei uma imagem de um garoto segurando, que apresenta uma expressão de empenho com um fundo verde que lembra também a cor de uma lousa e com elementos brancos ao fundo que lembram um giz.
@@ -33,10 +33,10 @@ Legenda:<br/>
 Em 74,89% das denúncias de violência sexual, as vítimas são crianças e adolescentes. A violação pode acontecer quando menos esperamos: durante um passeio ao parque, uma viagem em família, um simples jogo de futebol. Não importam as circunstâncias, violência sexual é crime e não podemos fechar os olhos para ela!<br/>
 Chamada para arte:
 Falar sobre violência sexual não deveria ser necessário, mas é!</strong></p>
-<img src="https://github.com/celopaias/teste_fundacaoAbrinq/blob/main/arte2.jpg"/>
+<img src="https://github.com/celopaias/teste_fundacaoAbrinq/blob/main/arte3.jpg"/>
 <br/><br/>
 
-<h4><strong>2. Com base na sua experiência, cite pelo menos cinco pontos positivos e cinco pontos a melhorar do site da Fundação Abrinq: www.fadc.org.br.</strong></h4>
+<h2><strong>2. Com base na sua experiência, cite pelo menos cinco pontos positivos e cinco pontos a melhorar do site da Fundação Abrinq: www.fadc.org.br.</strong></h2>
 
 
 <p><strong>Destaques:</strong></p>
